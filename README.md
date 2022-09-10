@@ -6,7 +6,7 @@ I am a Full-Stack web developer
 
 * 🌍  I'm based in Chandigarh, India
 * ✉️  You can contact me at [utkarshdixit303@gmail.com](mailto:utkarshdixit303@gmail.com)
-* 🤝  I'm open to collaborating on Interesting open source projects
+* 🤝  I'm open to collaborate on interesting open source projects
 
 ### Skills
 
